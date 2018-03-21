@@ -1,4 +1,4 @@
-½Óµ½Ò»¸öĞèÇó£¬´ÓÒ»¸öviewµ½ÁíÒ»¸öviewÖ®¼äÓÃĞéÏßÁ¬½Ó£¬ÖÕµã»­Ò»¸öÔ²µã¡£×Ô¶¨ÒåÒ»¸öDashView£¬ÊÊÓ¦Á½¸öViewÔÚÈÎºÎÏà¶ÔÎ»ÖÃ¡£
-ÊµÏÖĞ§¹ûÈçhttps://github.com/AceSui/MyAndroidSources/tree/master/DashView/sceenshoots/device-2018-03-21-233315.png¡£
-×¢Òâµã£ºÔÚActivityÖĞ£¬ÒªÔÚonWindowFocusChanged£¨£©ÊÂ¼şÖĞ»æÖÆ£¬ÔÚFragmentÖĞ£¬ÒªÔÚ¸ùViewµÄgetView().getViewTreeObserver().addOnWindowFocusChangeListener£¨£©ÖĞ»æÖÆ£¬·ñÔò×ÀÃæViewÃ»ÓĞ¼ÓÔØÍê±Ï£¬»æÖÆÎŞĞ§¡£
-×Ô¶¨ÒåDashViewÓĞÁ½ÖÖ³õÊ¼»¯·½Ê½£¬1£¬´«ÈëÁ½¸öView£¬×ÔÊÊÓ¦²¼¾Ö£»2£¬´«ÈëÁ½¸öµã»æÖÆĞéÏß¡£
+æ¥åˆ°ä¸€ä¸ªéœ€æ±‚ï¼Œä»ä¸€ä¸ªviewåˆ°å¦ä¸€ä¸ªviewä¹‹é—´ç”¨è™šçº¿è¿æ¥ï¼Œç»ˆç‚¹ç”»ä¸€ä¸ªåœ†ç‚¹ã€‚è‡ªå®šä¹‰ä¸€ä¸ªDashViewï¼Œé€‚åº”ä¸¤ä¸ªViewåœ¨ä»»ä½•ç›¸å¯¹ä½ç½®ã€‚
+å®ç°æ•ˆæœå¦‚https://github.com/AceSui/MyAndroidSources/blob/master/DashView/screenshoots/device-2018-03-21-233315.png
+æ³¨æ„ç‚¹ï¼šåœ¨Activityä¸­ï¼Œè¦åœ¨onWindowFocusChangedï¼ˆï¼‰äº‹ä»¶ä¸­ç»˜åˆ¶ï¼Œåœ¨Fragmentä¸­ï¼Œè¦åœ¨æ ¹Viewçš„getView().getViewTreeObserver().addOnWindowFocusChangeListenerï¼ˆï¼‰ä¸­ç»˜åˆ¶ï¼Œå¦åˆ™æ¡Œé¢Viewæ²¡æœ‰åŠ è½½å®Œæ¯•ï¼Œç»˜åˆ¶æ— æ•ˆã€‚
+è‡ªå®šä¹‰DashViewæœ‰ä¸¤ç§åˆå§‹åŒ–æ–¹å¼ï¼Œ1ï¼Œä¼ å…¥ä¸¤ä¸ªViewï¼Œè‡ªé€‚åº”å¸ƒå±€ï¼›2ï¼Œä¼ å…¥ä¸¤ä¸ªç‚¹ç»˜åˆ¶è™šçº¿ã€‚
